@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rolls-ghost",
+    "name": "Rolls‑Royce Ghost",
+    "pricePerDay": 3500,
+    "currency": "AED",
+    "seats": 5,
+    "transmission": "Automatic",
+    "image": "/cars/rolls-ghost.jpg",
+    "featured": true
+  },
+  {
+    "id": "lamborghini-urus",
+    "name": "Lamborghini Urus",
+    "pricePerDay": 2800,
+    "currency": "AED",
+    "seats": 5,
+    "transmission": "Automatic",
+    "image": "/cars/lamborghini-urus.jpg",
+    "featured": true
+  },
+  {
+    "id": "mercedes-g63",
+    "name": "Mercedes‑Benz G63 AMG",
+    "pricePerDay": 2200,
+    "currency": "AED",
+    "seats": 5,
+    "transmission": "Automatic",
+    "image": "/cars/mercedes-g63.jpg",
+    "featured": true
+  },
+  {
+    "id": "ferrari-roma",
+    "name": "Ferrari Roma",
+    "pricePerDay": 2600,
+    "currency": "AED",
+    "seats": 4,
+    "transmission": "Automatic",
+    "image": "/cars/ferrari-roma.jpg",
+    "featured": false
+  }
+]
+

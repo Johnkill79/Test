@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Mark D.",
+    "rating": 5,
+    "text": "Smooth booking, spotless car, and very professional service. Highly recommended.",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "rev-2",
+    "name": "Aileen S.",
+    "rating": 5,
+    "text": "Luxury experience from start to finish. Quick responses and transparent pricing.",
+    "date": "2026-03-18"
+  },
+  {
+    "id": "rev-3",
+    "name": "John P.",
+    "rating": 4,
+    "text": "Great car and easy pickup. Will book again next trip.",
+    "date": "2026-02-09"
+  }
+]
+
